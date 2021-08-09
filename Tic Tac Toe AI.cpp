@@ -1,3 +1,4 @@
+// Copyright(c) 2021 Ujjwal Gupta (@UG-SEP)
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
