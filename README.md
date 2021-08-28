@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Status-Beta-red.svg)
 ![](https://img.shields.io/badge/Version-CodeBlocks_20.03-red.svg)
 ![](https://img.shields.io/badge/Version-1.00.00-blue.svg)
-# 😲 **_Tic-Tac-Toe-AI-Intregrated_** 😲
+# 🤩 **_Tic-Tac-Toe-AI-Intregrated_** 🤩
 ## What is the meaning of _AI Intregrated_ 🙋‍♀️🙋‍♂️❓❓
 ### You all have Played _Tic Tac Toe_ in your life if you don't know what is tic tac toe [Let Know](https://en.wikipedia.org/wiki/Tic-tac-toe) `AI Intregrated` means you will play with Computer..
 ## What's New❓❓
